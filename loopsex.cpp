@@ -12,7 +12,6 @@ int main()
         cout<<i<<endl;
         sum=sum+i;
     }
-        
-}
+    }
     cout<<"Sum is: "<<sum<<endl;
 }
